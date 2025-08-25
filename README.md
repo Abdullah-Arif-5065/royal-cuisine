@@ -6,7 +6,7 @@ Styled with a **modern neon-glassmorphism UI**, this app lets you explore differ
 ---
 
 ## ✨ Preview
-![App Screenshot](./src/Screenshot%202025-08-25%20224242.png)
+![App Preview](ScreenRecording2025-08-25224330-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
