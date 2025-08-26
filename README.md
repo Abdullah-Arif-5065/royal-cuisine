@@ -6,7 +6,7 @@ Styled with a **modern neon-glassmorphism UI**, this app lets you explore differ
 ---
 
 ## ✨ Preview
-![App Preview](ScreenRecording2025-08-25224330-ezgif.com-video-to-gif-converter.gif)
+![App Preview](preview.gif)
 
 ---
 
@@ -41,8 +41,8 @@ royal-cuisine/
 
 
 ---
-
-👨‍💻 Author
+```
+## 👨‍💻 Author
 
 Abdullah Arif
 😊 Passionate about React, UI/UX, and APIs
